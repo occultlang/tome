@@ -1,2 +1,2 @@
-# tome
-An organization tool to get grimoires. 
+# Tome
+A build system for Occultlang.
